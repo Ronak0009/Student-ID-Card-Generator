@@ -1,0 +1,6 @@
+mysql-connector-python==8.0.19
+pillow==7.0.0
+PyMySQL==0.9.3
+pypng==0.0.20
+PyQRCode==1.2.1
+qrcode==6.1
